@@ -1,0 +1,5 @@
+{
+    "destinatario": "gostavomalisse@gmail.com",
+    "assunto": "Teste de API",
+    "corpo": "<p>Este é um e-mail enviado pela API.</p>"
+}
